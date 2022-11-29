@@ -1,0 +1,79 @@
+[Sun Nov 27 08:15:55 2022] PHP 8.1.2 Development Server (http://localhost:2525) started
+[Sun Nov 27 08:16:14 2022] [::1]:44230 Accepted
+[Sun Nov 27 08:16:18 2022] [::1]:44230 [302]: GET /
+[Sun Nov 27 08:16:18 2022] [::1]:44230 Closing
+[Sun Nov 27 08:16:18 2022] [::1]:44232 Accepted
+[Sun Nov 27 08:16:18 2022] [::1]:44232 [200]: GET /login.php
+[Sun Nov 27 08:16:18 2022] [::1]:44232 Closing
+[Sun Nov 27 08:16:19 2022] [::1]:44234 Accepted
+[Sun Nov 27 08:16:19 2022] [::1]:44234 [200]: GET /assets/css/bootstrap.min.css
+[Sun Nov 27 08:16:19 2022] [::1]:44236 Accepted
+[Sun Nov 27 08:16:19 2022] [::1]:44234 Closing
+[Sun Nov 27 08:16:19 2022] [::1]:44236 [200]: GET /assets/css/style.css
+[Sun Nov 27 08:16:19 2022] [::1]:44236 Closing
+[Sun Nov 27 08:16:19 2022] [::1]:44238 Accepted
+[Sun Nov 27 08:16:19 2022] [::1]:44238 [404]: GET /favicon.ico - No such file or directory
+[Sun Nov 27 08:16:19 2022] [::1]:44238 Closing
+[Sun Nov 27 08:16:32 2022] [::1]:44240 Accepted
+[Sun Nov 27 08:16:32 2022] [::1]:44240 [200]: POST /login.php
+[Sun Nov 27 08:16:32 2022] [::1]:44240 Closing
+[Sun Nov 27 08:16:32 2022] [::1]:44242 Accepted
+[Sun Nov 27 08:16:32 2022] [::1]:44244 Accepted
+[Sun Nov 27 08:16:32 2022] [::1]:44244 [200]: GET /assets/css/bootstrap.min.css
+[Sun Nov 27 08:16:32 2022] [::1]:44242 [200]: GET /assets/css/style.css
+[Sun Nov 27 08:16:32 2022] [::1]:44242 Closing
+[Sun Nov 27 08:16:32 2022] [::1]:44244 Closing
+[Sun Nov 27 08:16:32 2022] [::1]:44248 Accepted
+[Sun Nov 27 08:16:32 2022] [::1]:44248 [200]: GET /panel.php
+[Sun Nov 27 08:16:32 2022] [::1]:44248 Closing
+[Sun Nov 27 08:16:32 2022] [::1]:44250 Accepted
+[Sun Nov 27 08:16:32 2022] [::1]:44250 [200]: GET /assets/css/bootstrap.min.css
+[Sun Nov 27 08:16:32 2022] [::1]:44250 Closing
+[Sun Nov 27 08:16:32 2022] [::1]:44252 Accepted
+[Sun Nov 27 08:16:32 2022] [::1]:44254 Accepted
+[Sun Nov 27 08:16:32 2022] [::1]:44256 Accepted
+[Sun Nov 27 08:16:32 2022] [::1]:44258 Accepted
+[Sun Nov 27 08:16:32 2022] [::1]:44252 [200]: GET /assets/js/script.js
+[Sun Nov 27 08:16:32 2022] [::1]:44260 Accepted
+[Sun Nov 27 08:16:32 2022] [::1]:44252 Closing
+[Sun Nov 27 08:16:32 2022] [::1]:44258 [200]: GET /assets/css/light-theme.min.css
+[Sun Nov 27 08:16:32 2022] [::1]:44258 Closing
+[Sun Nov 27 08:16:32 2022] [::1]:44256 [200]: GET /assets/js/jquery.min.js
+[Sun Nov 27 08:16:32 2022] [::1]:44254 [200]: GET /assets/js/sweetalert2.min.js
+[Sun Nov 27 08:16:32 2022] [::1]:44256 Closing
+[Sun Nov 27 08:16:32 2022] [::1]:44260 [200]: GET /assets/js/growl-notification.min.js
+[Sun Nov 27 08:16:32 2022] [::1]:44254 Closing
+[Sun Nov 27 08:16:32 2022] [::1]:44260 Closing
+[Sun Nov 27 08:16:33 2022] [::1]:44262 Accepted
+[Sun Nov 27 08:16:33 2022] [::1]:44264 Accepted
+[Sun Nov 27 08:16:33 2022] [::1]:44264 [200]: GET /Settings.json
+[Sun Nov 27 08:16:33 2022] [::1]:44264 Closing
+[Sun Nov 27 08:16:33 2022] [::1]:44262 [200]: POST /list_templates.php
+[Sun Nov 27 08:16:33 2022] [::1]:44262 Closing
+[Sun Nov 27 08:16:36 2022] [::1]:44266 Accepted
+[Sun Nov 27 08:16:36 2022] [::1]:44266 [200]: POST /receiver.php
+[Sun Nov 27 08:16:36 2022] [::1]:44266 Closing
+[Sun Nov 27 08:16:38 2022] [::1]:44268 Accepted
+[Sun Nov 27 08:16:38 2022] [::1]:44268 [200]: POST /receiver.php
+[Sun Nov 27 08:16:38 2022] [::1]:44268 Closing
+[Sun Nov 27 08:16:40 2022] [::1]:44272 Accepted
+[Sun Nov 27 08:16:40 2022] [::1]:44272 [200]: POST /receiver.php
+[Sun Nov 27 08:16:40 2022] [::1]:44272 Closing
+[Sun Nov 27 08:16:42 2022] [::1]:44274 Accepted
+[Sun Nov 27 08:16:42 2022] [::1]:44274 [200]: POST /receiver.php
+[Sun Nov 27 08:16:42 2022] [::1]:44274 Closing
+[Sun Nov 27 08:16:44 2022] [::1]:44276 Accepted
+[Sun Nov 27 08:16:44 2022] [::1]:44276 [200]: POST /receiver.php
+[Sun Nov 27 08:16:44 2022] [::1]:44276 Closing
+[Sun Nov 27 08:16:46 2022] [::1]:44278 Accepted
+[Sun Nov 27 08:16:46 2022] [::1]:44278 [200]: POST /receiver.php
+[Sun Nov 27 08:16:46 2022] [::1]:44278 Closing
+[Sun Nov 27 08:16:48 2022] [::1]:44280 Accepted
+[Sun Nov 27 08:16:48 2022] [::1]:44280 [200]: POST /receiver.php
+[Sun Nov 27 08:16:48 2022] [::1]:44280 Closing
+[Sun Nov 27 08:16:50 2022] [::1]:44282 Accepted
+[Sun Nov 27 08:16:50 2022] [::1]:44282 [200]: POST /receiver.php
+[Sun Nov 27 08:16:50 2022] [::1]:44282 Closing
+[Sun Nov 27 08:16:52 2022] [::1]:44284 Accepted
+[Sun Nov 27 08:16:52 2022] [::1]:44284 [200]: POST /receiver.php
+[Sun Nov 27 08:16:52 2022] [::1]:44284 Closing
